@@ -1,0 +1,54 @@
+{
+"cykl":[
+  {
+    "dzien":"poniedziałek",
+     "steryd":"trenbolone",
+     "ilosc":200
+
+    
+  },
+  {
+    "dzien":"wtorek",
+     "steryd":"anavar",
+     "ilosc":400
+
+    
+  },
+  {
+    "dzien":"środa",
+     "steryd":"nic",
+     "ilosc":null
+
+    
+  },
+  {
+    "dzien":"czwartek",
+     "steryd":"testosteron",
+     "ilosc":1000
+
+    
+  },
+  {
+    "dzien":"piątek",
+     "steryd":"anavar",
+     "ilosc":400
+
+    
+  },
+  {
+    "dzien":"sobota",
+     "steryd":"trenbolone",
+     "ilosc":200
+
+    
+  },
+  {
+    "dzien":"niedziela",
+     "steryd":"nic",
+     "ilosc":null
+
+    
+  }
+]
+  
+}
